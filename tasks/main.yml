@@ -1,7 +1,5 @@
 ---
 # tasks file for role1
----
----
 # Install nginx and deploy a simple site
 - name: Ensure nginx package installed
   apt:
